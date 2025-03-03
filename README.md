@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/YoooBoyzz/Auto-Installer-Theme-
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : yoooxdev)
+ (Kode Token : YoooXyz)
 
 ## System Support :
 
