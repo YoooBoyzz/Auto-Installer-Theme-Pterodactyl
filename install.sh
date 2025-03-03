@@ -62,7 +62,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "yoooxdev" ]; then
+  if [ "$USER_TOKEN" = "YoooXyz" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Token Salah! Beli Kode Token Di Yooo${NC}"
@@ -245,7 +245,7 @@ echo -e "${BLUE}[+] =============================================== [+]${NC}"
 echo -e "                                                                   "
 
 # Unduh file tema
-wget -O /root/stellar.zip https://github.com/YoooBoyzz/Pterodactyl-Theme-Autoinstaller/raw/main/stellar.zip
+wget -O /root/stellar.zip https://github.com/YoooBoyzz/Auto-Installer-Theme-Pterodactyl/raw/main/stellar.zip
 
 
 # Ekstrak file tema
