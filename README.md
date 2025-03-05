@@ -1,4 +1,4 @@
-# :bird: Pterodactyl-Theme-Autoinstaller
+# :bird: Auto-Installer-Theme-Pterodactyl
 
 
 
